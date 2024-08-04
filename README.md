@@ -8,7 +8,7 @@ I'm a **Research Scientist** at AmplifyLearn.AI, College of Education, Universit
 
 - 🎓 Completed a PhD in Information Science from iSchool, University of Washington.
 - 💬 Ask me about: AI, machine learning, data analytics, and educational technology.
-- 📫 How to reach me: [Your Email](mailto:ss288@uw.edu)
+- 📫 How to reach me: [Email](mailto:ss288@uw.edu)
 - 😄 Pronouns: She/Her
 
 ## Skills
