@@ -4,10 +4,10 @@
 
 ## About Me
 
-I'm a **Research Scientist** at AmplifyLearn.AI, College of Education, University of Washington. My work revolves around leveraging advanced machine learning techniques to solve real-world problems. I specialize in integrating human-computer interaction with AI/ML, focusing on how humans interact with information in various contexts such as search, recommendations, and AI-supported collaborations. My work emphasizes facilitating knowledge development and informed decision-making. My current research is dedicated to enhancing how educators and students interact with digital tools and data, particularly in K-12 education settings, to improve learning outcomes and decision-making processes.
+I'm a **Research Scientist** at AmplifyLearn.AI, College of Education, University of Washington and **Senior Data Scientist** at Colleague AI. My work revolves around leveraging advanced machine learning techniques to solve real-world problems. I specialize in integrating human-computer interaction with AI/ML, focusing on how humans interact with information in various contexts such as search, recommendations, and AI-supported collaborations. My work emphasizes facilitating knowledge development and informed decision-making. My current research is dedicated to enhancing how educators and students interact with digital tools and data, particularly in K-12 education settings, to improve learning outcomes and decision-making processes.
 
 - 🎓 PhD in Information Science, iSchool, University of Washington.
-- 💬 Ask me about: AI, machine learning, data analytics, and educational technology.
+- 💬 Ask me about: Mixed-methods research, generative AI, machine learning, data analytics, and educational technology.
 - 📫 How to reach me: [Email](mailto:ss288@uw.edu)
 - 😄 Pronouns: She/Her
 
